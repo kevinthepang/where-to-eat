@@ -1,2 +1,43 @@
+body {
+  background-color: #fafafa;
+}
 
+.container-fluid {
+  max-width: 1170px;
+  margin: 0 auto;
+}
 
+.epic-murray {
+  margin-bottom: -4em;
+}
+
+.epic-overlap .row h3 span {
+  display: block;
+}
+
+.epic-overlap {
+  padding: 2em 3.2em;
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #dedede;
+}
+
+.epic-overlap h1 {
+  font-size: 3.3em;
+  line-height: 1.2em;
+}
+.epic-overlap h1 span {
+  display: block;
+  font-size: 0.5em;
+  color: #cb4117;
+}
+
+.intro p {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid #dedede;
+  padding-bottom: 30px;
+}
